@@ -80,6 +80,9 @@ The model is evaluated using the Dice coefficient and Intersection over Union (I
 - **Dice Coefficient**: Measures the overlap between the predicted and ground truth masks.
 - **IoU**: Measures the intersection over union between the predicted and ground truth masks.
 
+## Results
+![Capture](Capture.PNG)
+
 
 Sample outputs of MRI scans, their corresponding masks, and the model's predictions can be found in the `results/` directory.
 
